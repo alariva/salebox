@@ -4,7 +4,7 @@
 
 # SaleBox <small>1.1</small>
 
-> Sistema de ventas online para comercios de alimentos.
+> Punto de Venta Digital para Comercios de Alimentos.
 
 - Ventas 24x7
 - Gestión de pedidos
