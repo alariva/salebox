@@ -7,24 +7,31 @@
   <meta name="description" content="Salebox | Sistema de Venta Online Boutique">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="/custom/custom.css">
   <style type="text/css">
   :root {
     --base-font-size: 1em;
     --theme-color   : #1B45D1;
+    --cover-background-color : #D0D0D0;
+    --cover-heading-color: #1B45D1;
+  }
+  .cover-main img{
+    max-height: 120px;
   }
   </style>
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Abriendo...</div>
   <script>
     window.$docsify = {
       name: '',
       repo: '',
+      coverpage: true,
       loadSidebar: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
-      subMaxLevel: 2
+      subMaxLevel: 4
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
