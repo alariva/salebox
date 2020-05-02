@@ -1,6 +1,6 @@
 - **Contenidos**
   - [Introducción](README.md)
-  - [Funciones](funciones.md)
+  - [Funciones](funciones/README.md)
 
 ---
 - <small>**SaleBox v1.1**</small>

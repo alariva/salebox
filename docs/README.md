@@ -32,4 +32,3 @@ evitando toda distracción que pudiera desalentar la venta.
 Sus **Clientes** visitan su sitio, y desde allí ingresan su pedido en autoservicio.
 
 Usted recibe la notificación de compra, y se prepara para despachar los productos encargados.
-
