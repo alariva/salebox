@@ -1,3 +1,0 @@
-- **Contenidos**
-  - [Tienda Online](tienda-online.md)
-  - [Gestión Interna](gestion-interna.md)
