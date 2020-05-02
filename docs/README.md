@@ -26,8 +26,9 @@ realizar su pedido.
 
 **Salebox** monta una **tienda boutique online** en tu sitio web.
 
-Decimos que es *boutique* porque tus clientes estarán visitando tu sitio web exclusivamente,
-evitando toda distracción que pudiera desalentar la venta.
+Decimos que es *boutique* porque a diferencia de otras plataformas como MercadoLibre, PedidoYa o TiendaNube, tus
+clientes estarán visitando tu sitio web **exclusivamente**, evitando toda distracción de la competencia que pudiera
+desalentar la venta.
 
 Tus **Clientes** visitan el sitio, y desde allí ingresan su pedido en autoservicio.
 
