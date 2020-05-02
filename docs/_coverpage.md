@@ -11,4 +11,4 @@
 - Gestión de entregas
 
 [Contratar](https://alariva.com/es/contacto)
-[Más Información](#docsify)
+[Más Información](#salebox)
